@@ -2,7 +2,7 @@
 
 ## Retired top athlete transitioning to **web development**.
 
-### Wilder 2023 --- Junior Full Stack Developer**. 
+### Junior Full Stack Developer --- Wilder 2023
 
 I have been interested in technology for many years but never dared to learn it because of the stigma of the industry.
 
