@@ -2,7 +2,7 @@
 
 ## Retired top athlete transitioning to **web development**.
 
-### Wilder 2023** -- **Junior Full Stack Developer**. 
+### Wilder 2023 --- Junior Full Stack Developer**. 
 
 I have been interested in technology for many years but never dared to learn it because of the stigma of the industry.
 
@@ -11,20 +11,20 @@ I am very pleasantly surprised by the pleasure I feel at having finally taken th
 My life project is oriented around this one in order to write a new page in my life.
 
 
-*****
+***
 
 - Eager to learn, 
 - Punctual,
 - Dynamic,
 - Ready to take up challenges,
 
-*****
+***
 
  #### I am here to propose you my projects and my participation to open-source projects.
 
-*****
+***
 
->> 📫 Socials :
+📫 Socials :
 
 >> @jayson_delion [Twitter](https://twitter.com/jayson_delion) 
 
