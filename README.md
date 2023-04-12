@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jay
+# 👋🏾 Hi, I’m Jay
 
 ## Retired top athlete transitioning to **web development**.
 
