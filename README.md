@@ -28,4 +28,4 @@ My life project is oriented around this one in order to write a new page in my l
 
 >> [Twitter](https://twitter.com/jayson_delion) 
 
->> [LinkedIn](https://www.linkedin.com/in/jay-delion-85550b203/)
+>> [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
