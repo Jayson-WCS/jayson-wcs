@@ -1,12 +1,12 @@
 
 # 👋🏾 Je m'appelle Jay !
 
-## Ancien athlète devenu **Développeur Front End**.
+Ancien athlète devenu **Développeur Front End**.
 
-### Recherche une alternance à partir de septembre 2023.
-***
+Recherche une alternance à partir de septembre 2023.
+
 > Wilder 2023 💻 
-***
+
 
 Je me spécialise en : 
  - **JavaScript** 
@@ -22,21 +22,23 @@ Je m'épanouis dans des environnements collaboratifs, en résolvant des problèm
 Capable de travailler avec **Git** et **GitHub**.
 
 Construisons ensemble quelque chose d'extraordinaire ! 
-***
+
 📫 Réseaux :
 
 - [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
 
 - [Twitter](https://twitter.com/jayson_delion)
+  
+----------------------------------------------------
 
 # 👋🏾 Hi, I'm Jay!
 
-## Former athlete turned **Front End Developer**.
+Former athlete turned **Front End Developer**.
 
-### Looking for a work-study position from September 2023.
-***
+Looking for a work-study position from September 2023.
+
 > Wilder 2023 💻
-***
+
 
 I specialise in : 
  - **JavaScript**
@@ -52,7 +54,7 @@ I thrive in collaborative environments, solving complex problems and providing c
 Able to work with **Git** and **GitHub**.
 
 Let's build something extraordinary together!
-***
+
 📫 Socials :
 
 - [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
