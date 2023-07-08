@@ -1,31 +1,21 @@
-# 👋🏾 Hi, I’m Jay
+# 👋🏾 Hey there I'm Jay ! 
 
-## Former athlete transitioning to **web development**.
+## Former athlete turned **front-end developer** with a passion for creating exceptional user experiences. 
 
 ### Junior Full Stack Developer --- Wilder 2023
 
-I have been interested in technology for many years but never dared to learn it because of the stigma of the industry.
+### Currently seeking a **sandwich course** opportunity starting in September.
 
-I am very pleasantly surprised by the pleasure I feel at having finally taken the plunge !
+I specialize in **SCSS**, **JavaScript** and **React**, and yet I'm constantly honing my **UI/UX** skills through self-learning with **Figma** and practicing with components libraries like **Chakra UI**.
 
-Let's code !
+I thrive in collaborative environments, solving complex problems and providing creative solutions. 
 
-
-***
-
-- Eager to learn, 
-- Punctual,
-- Dynamic,
-- Ready to take up challenges,
-
-***
-
- #### I am here to propose you my projects and my participation to open-source projects.
+Let's build something extraordinary together !
 
 ***
 
 📫 Socials :
 
->> [Twitter](https://twitter.com/jayson_delion) 
-
 >> [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
+
+>> [Twitter](https://twitter.com/jayson_delion) 
