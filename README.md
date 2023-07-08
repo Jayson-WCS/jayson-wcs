@@ -3,49 +3,57 @@
 
 ## Ancien athlète devenu **Développeur Front End**.
 
+### Recherche une alternance à partir de septembre 2023.
+***
+> Wilder 2023 💻 
 ***
 
-### Actuellement à la recherche d'une opportunité de formation en alternance à partir de septembre.
+Je me spécialise en : 
+ - **JavaScript** 
+ - **SCSS**
+ - **React**
+ - **NodeJS**
+ - **MySQL**
 
-***
-
-#### Développeur Junior Full Stack --- Wilder 2023
-
-***
-
-Je me spécialise en **SCSS**, **JavaScript** et **React**, et pourtant je perfectionne constamment mes compétences **UI/UX** par l'auto-apprentissage avec **Figma** et la pratique avec des bibliothèques de composants comme **Chakra UI**.
+En outre je me perfectionne mes compétences **UI/UX** en autodidacte sur **Figma**
+Par ailleurs je pratique avec des bibliothèques de composants comme **Chakra UI**.
 
 Je m'épanouis dans des environnements collaboratifs, en résolvant des problèmes complexes et en fournissant des solutions créatives.
+Capable de travailler avec **Git** et **GitHub**.
 
-Construisons ensemble quelque chose d'extraordinaire !
+Construisons ensemble quelque chose d'extraordinaire ! 
+***
+📫 Réseaux :
 
+- [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
 
-*************************************************************************************
+- [Twitter](https://twitter.com/jayson_delion)
 
-# 👋🏾 Hey there I'm Jay ! 
+# 👋🏾 Hi, I'm Jay!
 
-## Former athlete turned **Front End developer**. 
+## Former athlete turned **Front End Developer**.
 
+### Looking for a work-study position from September 2023.
+***
+> Wilder 2023 💻
 ***
 
-### Currently seeking a **sandwich course** opportunity starting in September.
+I specialise in : 
+ - **JavaScript**
+ - **SCSS**
+ - **React**
+ - **NodeJS**
+ - **MySQL**
 
+I'm also perfecting my **UI/UX** skills by self-taught on **Figma**.
+I also work with component libraries such as **Chakra UI**.
+
+I thrive in collaborative environments, solving complex problems and providing creative solutions.
+Able to work with **Git** and **GitHub**.
+
+Let's build something extraordinary together!
 ***
-
-#### Junior Full Stack Developer --- Wilder 2023
-
-***
-
-I specialize in **SCSS**, **JavaScript** and **React**, and yet I'm constantly honing my **UI/UX** skills through self-learning with **Figma** and practicing with components libraries like **Chakra UI**.
-
-I thrive in collaborative environments, solving complex problems and providing creative solutions. 
-
-Let's build something extraordinary together !
-
-***
-
 📫 Socials :
 
->> [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
-
->> [Twitter](https://twitter.com/jayson_delion) 
+- [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
+- [Twitter](https://twitter.com/jayson_delion) 
