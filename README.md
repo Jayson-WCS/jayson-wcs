@@ -15,7 +15,7 @@ Je me spécialise en :
  - **NodeJS**
  - **MySQL**
 
-En outre je me perfectionne mes compétences **UI/UX** en autodidacte sur **Figma**
+En outre je perfectionne mes compétences **UI/UX** en autodidacte sur **Figma**
 Par ailleurs je pratique avec des bibliothèques de composants comme **Chakra UI**.
 
 Je m'épanouis dans des environnements collaboratifs, en résolvant des problèmes complexes et en fournissant des solutions créatives.
