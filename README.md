@@ -15,9 +15,9 @@ Par ailleurs je pratique avec des bibliothèques de composants comme **Chakra UI
 Je m'épanouis dans des environnements collaboratifs, en résolvant des problèmes complexes et en fournissant des solutions créatives.
 Capable de travailler avec **Git** et **GitHub**.
 
-Construisons ensemble quelque chose d'extraordinaire ! 
+> Construisons l'avenir en ligne ! 
 
-📫 Réseaux :
+📫 Contact Pro :
 
 - [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
 
@@ -39,7 +39,7 @@ I also work with component libraries such as **Chakra UI** or **Daisy UI**.
 I thrive in collaborative environments, solving complex problems and providing creative solutions.
 Able to work with **Git** and **GitHub**.
 
-Let's build something extraordinary together!
+> Let's build the future online !
 
 📫 Socials :
 
