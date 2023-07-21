@@ -3,7 +3,7 @@
 
 Ancien athlète devenu **Développeur Front End**.
 
-Recherche une alternance à partir de septembre 2023.
+🎯  Recherche une alternance à partir de septembre 2023.  🎯
 
 > Wild Code School 2023 💻 
 
@@ -27,7 +27,7 @@ Je m'épanouis dans des environnements collaboratifs, en résolvant des problèm
 
 Former athlete turned **Front End Developer**.
 
-Looking for a work-study position from September 2023.
+🎯  Looking for a work-study position from September 2023.  🎯
 
 > Wild Code School 2023 💻
 
