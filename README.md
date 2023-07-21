@@ -21,8 +21,6 @@ Construisons ensemble quelque chose d'extraordinaire !
 
 - [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
 
-- [Twitter](https://twitter.com/jayson_delion)
-  
 ----------------------------------------------------
 
 # 👋🏾 Hi, I'm Jay!
@@ -46,4 +44,3 @@ Let's build something extraordinary together!
 📫 Socials :
 
 - [LinkedIn](https://www.linkedin.com/in/jayson-delion/)
-- [Twitter](https://twitter.com/jayson_delion) 
