@@ -7,13 +7,13 @@ Recherche une alternance à partir de septembre 2023.
 
 > Wild Code School 2023 💻 
 
-Capable de travailler avec **React JS**, **Tailwind CSS** ainsi qu'avec **Node JS** et **MySQL**.
+Capable de travailler avec **React JS**, **Tailwind CSS** ainsi qu'avec **Node JS** et **MySQL**.   
+Ainsi qu'avec **Git** et **GitHub** et les outils adaptés aux méthodes **Agile**.
 
-En outre je perfectionne mes compétences **UI/UX** en autodidacte sur **Figma**
+En outre je perfectionne mes compétences **UI/UX** en autodidacte sur **Figma**.   
 Par ailleurs je pratique avec des bibliothèques de composants comme **Chakra UI** ou **Daisy UI**.
 
 Je m'épanouis dans des environnements collaboratifs, en résolvant des problèmes complexes et en fournissant des solutions créatives.
-Capable de travailler avec **Git** et **GitHub**.
 
 > Construisons l'avenir en ligne ! 
 
@@ -31,9 +31,10 @@ Looking for a work-study position from September 2023.
 
 > Wild Code School 2023 💻
 
-Able to work with **React JS**, **Tailwind CSS**, **Node JS** and **MySQL**.
+Able to work with **React JS**, **Tailwind CSS**, **Node JS** and **MySQL**.      
+As well as with **Git** and **GitHub** and tools adapted to **Agile** methods.
 
-I'm also perfecting my **UI/UX** skills by self-taught on **Figma**.
+I'm also perfecting my **UI/UX** skills by self-taught on **Figma**.     
 I also work with component libraries such as **Chakra UI** or **Daisy UI**.
 
 I thrive in collaborative environments, solving complex problems and providing creative solutions.
