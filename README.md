@@ -5,7 +5,7 @@ Ancien athlète devenu **Développeur Front End**.
 
 Recherche une alternance à partir de septembre 2023.
 
-> Wilder 2023 💻 
+> Wild Code School 2023 💻 
 
 Capable de travailler avec **React JS**, **Tailwind CSS** ainsi qu'avec **Node JS** et **MySQL**.
 
@@ -29,7 +29,7 @@ Former athlete turned **Front End Developer**.
 
 Looking for a work-study position from September 2023.
 
-> Wilder 2023 💻
+> Wild Code School 2023 💻
 
 Able to work with **React JS**, **Tailwind CSS**, **Node JS** and **MySQL**.
 
