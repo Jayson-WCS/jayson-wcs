@@ -1,5 +1,5 @@
 
-# 👋🏾 Je m'appelle Jay !
+# 👋🏾 Enchanté, moi c'est Jay !
 
 Ancien athlète devenu **Développeur Front End**.
 
