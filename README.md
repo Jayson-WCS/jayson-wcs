@@ -7,7 +7,7 @@ Ancien athlète devenu **Développeur Front End**.
 
 > Wild Code School 2023 💻 
 
-Capable de travailler avec **React JS**, **Tailwind CSS** ainsi qu'avec **Node JS** et **MySQL**.   
+Capable de travailler avec **React JS**, **Tailwind CSS**, **Node JS** et **MySQL**.   
 Ainsi qu'avec **Git** et **GitHub** et les outils adaptés aux méthodes **Agile**.
 
 En outre je perfectionne mes compétences **UI/UX** en autodidacte sur **Figma**.   
