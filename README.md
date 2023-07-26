@@ -1,7 +1,7 @@
 
 # 👋🏾 Enchanté, moi c'est Jay !
 
-Ancien athlète devenu **Développeur Front End**.
+Ancien athlète devenu **Développeur Web Full-Stack**.
 
 🎯  Recherche une alternance à partir de septembre 2023.  🎯
 
@@ -25,7 +25,7 @@ Je m'épanouis dans des environnements collaboratifs, en résolvant des problèm
 
 # 👋🏾 Hi, I'm Jay!
 
-Former athlete turned **Front End Developer**.
+Former athlete turned **Full-Stack Web Developer**.
 
 🎯  Looking for a work-study position from September 2023.  🎯
 
