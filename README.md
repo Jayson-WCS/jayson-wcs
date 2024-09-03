@@ -3,8 +3,6 @@
 
 Ancien athlète devenu **Développeur Web Full-Stack**.
 
-🎯  Recherche une alternance à partir de septembre 2023.  🎯
-
 > Wild Code School 2023 💻 
 
 Capable de travailler avec **React JS**, **Tailwind CSS**, **Node JS** et **MySQL**.   
@@ -14,8 +12,6 @@ En outre je perfectionne mes compétences **UI/UX** en autodidacte sur **Figma**
 Par ailleurs je pratique avec des bibliothèques de composants comme **Chakra UI** ou **Daisy UI**.
 
 Je m'épanouis dans des environnements collaboratifs, en résolvant des problèmes complexes et en fournissant des solutions créatives.
-
-> Construisons l'avenir en ligne ! 
 
 📫 Contact Pro :
 
@@ -27,8 +23,6 @@ Je m'épanouis dans des environnements collaboratifs, en résolvant des problèm
 
 Former athlete turned **Full-Stack Web Developer**.
 
-🎯  Looking for a work-study position from September 2023.  🎯
-
 > Wild Code School 2023 💻
 
 Able to work with **React JS**, **Tailwind CSS**, **Node JS** and **MySQL**.      
@@ -39,8 +33,6 @@ I also work with component libraries such as **Chakra UI** or **Daisy UI**.
 
 I thrive in collaborative environments, solving complex problems and providing creative solutions.
 Able to work with **Git** and **GitHub**.
-
-> Let's build the future online !
 
 📫 Socials :
 
